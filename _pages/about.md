@@ -6,7 +6,7 @@ subtitle: Undergraduate Student at <a href='https://www.snu.ac.kr'>Seoul Nationa
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Civil & Environmental Engineering</p>

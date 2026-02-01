@@ -34,6 +34,10 @@ toc:
 
 ---
 
+{% include figure.liquid loading="eager" path="assets/img/solarnote.png" title="SolarNote AI Math Error Note Generator" class="img-fluid rounded z-depth-1" %}
+
+---
+
 ## 해결 방안
 
 ### SolarNote의 6단계 AI 파이프라인
