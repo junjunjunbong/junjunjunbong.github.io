@@ -5,7 +5,7 @@ date: 2026-02-01 12:00:00+0900
 description: "태양처럼 밝게, 실수도 빛나는 배움으로 - 틀린 수학 문제 사진을 업로드하면 유사문제 5개와 상세 풀이를 자동 생성하는 AI 멀티 에이전트 시스템"
 tags: AI LLM multi-agent Upstage Solar math education
 categories: projects
-giscus_comments: true
+giscus_comments: false
 featured: true
 toc:
   beginning: true
