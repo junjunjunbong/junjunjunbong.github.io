@@ -63,11 +63,11 @@ ninja.data = [{
           window.open("https://github.com/junjunjunbong", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://www.linkedin.com/in/jun1seo", "_blank");
         },
       },{
       id: 'light-theme',
