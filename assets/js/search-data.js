@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "post-solarnote-ai로-만드는-스마트-수학-오답노트",
+        
+          title: "SolarNote: AI로 만드는 스마트 수학 오답노트",
+        
+        description: "태양처럼 밝게, 실수도 빛나는 배움으로 - 틀린 수학 문제 사진을 업로드하면 유사문제 5개와 상세 풀이를 자동 생성하는 AI 멀티 에이전트 시스템",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/solarnote-ai-math-solver/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
