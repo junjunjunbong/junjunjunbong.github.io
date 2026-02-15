@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-카카오-ai를-대학생이-써보니-일상-생산성-3가지-활용법",
+        },{id: "post-playmcp를-대학생이-주목해야-하는-이유-ai를-말-잘하는-도구-에서-일하는-도구-로",
+        
+          title: "PlayMCP를 대학생이 주목해야 하는 이유: AI를 ‘말 잘하는 도구’에서 ‘일하는 도구’로",
+        
+        description: "카카오 PlayMCP를 조사하고 직접 살펴보며 정리한, 대학생 관점의 활용 아이디어와 지원 동기",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/playmcp-campus-builder/";
+          
+        },
+      },{id: "post-카카오-ai를-대학생이-써보니-일상-생산성-3가지-활용법",
         
           title: "카카오 AI를 대학생이 써보니: 일상 생산성 3가지 활용법",
         
