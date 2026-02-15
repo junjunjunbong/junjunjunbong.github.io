@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "PlayMCP를 대학생이 주목해야 하는 이유: AI를 ‘말 잘하는 도구’에서 ‘일하는 도구’로"
-date: 2026-02-15 21:55:00+0900
+date: 2026-02-15 21:45:00+0900
 description: "카카오 PlayMCP를 조사하고 직접 살펴보며 정리한, 대학생 관점의 활용 아이디어와 지원 동기"
 tags: PlayMCP Kakao MCP AI Agent KANANA429
 categories: projects
