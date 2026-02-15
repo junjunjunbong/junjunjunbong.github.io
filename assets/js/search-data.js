@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-solarnote-ai로-만드는-스마트-수학-오답노트",
+        },{id: "post-카카오-ai를-대학생이-써보니-일상-생산성-3가지-활용법",
+        
+          title: "카카오 AI를 대학생이 써보니: 일상 생산성 3가지 활용법",
+        
+        description: "대학생 관점에서 카카오 AI를 실제로 활용해본 경험과 KANANA 429 지원 이유를 정리한 글",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/kakao-ai-kanana429/";
+          
+        },
+      },{id: "post-solarnote-ai로-만드는-스마트-수학-오답노트",
         
           title: "SolarNote: AI로 만드는 스마트 수학 오답노트",
         
